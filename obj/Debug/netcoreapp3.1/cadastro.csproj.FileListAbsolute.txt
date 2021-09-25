@@ -1,0 +1,13 @@
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\obj\Debug\netcoreapp3.1\cadastro.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\obj\Debug\netcoreapp3.1\cadastro.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\obj\Debug\netcoreapp3.1\cadastro.AssemblyInfo.cs
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\obj\Debug\netcoreapp3.1\cadastro.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\bin\Debug\netcoreapp3.1\cadastro.exe
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\bin\Debug\netcoreapp3.1\cadastro.deps.json
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\bin\Debug\netcoreapp3.1\cadastro.runtimeconfig.json
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\bin\Debug\netcoreapp3.1\cadastro.runtimeconfig.dev.json
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\bin\Debug\netcoreapp3.1\cadastro.dll
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\bin\Debug\netcoreapp3.1\cadastro.pdb
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\obj\Debug\netcoreapp3.1\cadastro.dll
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\obj\Debug\netcoreapp3.1\cadastro.pdb
+C:\Users\leand\Desktop\Avanade\Projetos\cadastro\obj\Debug\netcoreapp3.1\cadastro.genruntimeconfig.cache
